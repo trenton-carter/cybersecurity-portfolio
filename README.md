@@ -23,17 +23,14 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 ---
 
 ## 📁 Featured Items
-- **Resume (PDF):** [`TrentonCarter_Resume.pdf`](./TrentonCarter_Resume.pdf)  ← replace this with your actual PDF
-- **NCL Scouting Report (PDF):** [`NCL_Scouting_Report_Spring2025.pdf`](./NCL_Scouting_Report_Spring2025.pdf)  ← add your report here
+- **Resume (PDF):** [`TrentonCarter_Resume.pdf`](./TrentonCarter_Resume.pdf)  
+- **NCL Scouting Report (PDF):** [`NCL_Scouting_Report_Spring2025.pdf`](./NCL_Scouting_Report_Spring2025.pdf)  
 
 ### Projects
 1. **SOC Log Analysis Lab** — [projects/soc-log-analysis](./projects/soc-log-analysis)  
    Simulated log triage (auth failures, lateral movement) and detections using event logs/SIEM.
 2. **Wireshark Network Analysis** — [projects/wireshark-analysis](./projects/wireshark-analysis)  
    Packet captures, filters, and incident indications (C2, exfil, suspicious DNS).
-
-### CTF / Labs
-- **TryHackMe** — [ctf-writeups/tryhackme](./ctf-writeups/tryhackme)
 
 ---
 
