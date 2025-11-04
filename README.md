@@ -28,7 +28,7 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 
 ### Projects
 1. ### Projects
-- **ARP Spoofing Attack and Detection** — [View Report (PDF)](./ARP Spoofing Attack and Detection.pdf)  
+- **ARP Spoofing Attack and Detection** — [View Report (PDF)](./ARP_Spoofing_Attack_and_Detection.pdf)  
   Executed an ARP spoofing and man-in-the-middle attack in a controlled lab to analyze packet interception and detection.
   Captured HTTP traffic, demonstrated confidentiality risk, and implemented a Python/Scapy detector for anomaly detection.
   **Skills:** Network forensics, ARP analysis, MITM attacks, Python (Scapy), Linux CLI.
