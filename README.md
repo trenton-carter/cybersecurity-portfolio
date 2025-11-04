@@ -32,7 +32,7 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 ---
 
 ## 🧠 Projects
-- **ARP Spoofing Attack and Detection** — [🧩 View Report (PDF)](./projects/ARP_Spoofing_Attack_and_Detection.pdf)  
+- **ARP Spoofing Attack and Detection** — [💻 View Report (PDF)](./projects/ARP_Spoofing_Attack_and_Detection.pdf)  
   Executed a man-in-the-middle ARP spoofing attack, intercepted HTTP traffic, and validated detection using a Python/Scapy script.  
   **Skills:** ARP protocol analysis, Linux, Python, network forensics.
 
