@@ -22,21 +22,23 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 
 ---
 
-## 📁 Featured Items
-- **Resume (PDF):** [`TrentonCarter_Resume.pdf`](./TrentonCarter_Resume.pdf)  
-- **NCL Scouting Report {644 out of 7816} (PDF):** [`NCL_ScoutingReport_Fall25.pdf`](./NCL_ScoutingReport_Fall25.pdf)  
+## 📄 Documents
+- **Resume** — [➡️ View Resume (PDF)](./docs/Trenton_Carter_Resume.pdf)  
+  Highlights hands-on IT support and cybersecurity experience, technical skills, and certifications relevant to SOC Analyst and IT Security roles.
 
-### Projects
-- **ARP Spoofing Attack and Detection** — [View Report (PDF)](./ARP_Spoofing_Attack_and_Detection.pdf)  
-  Executed an ARP spoofing and man-in-the-middle attack in a controlled lab to analyze packet interception and detection.
-  Captured HTTP traffic, demonstrated confidentiality risk, and implemented a Python/Scapy detector for anomaly detection.
-  **Skills:** Network forensics, ARP analysis, MITM attacks, Python (Scapy), Linux CLI.
+- **NCL Scouting Report (Fall 2025)** — [📊 View Score Report (PDF)](./docs/NCL_Fall2025_IndividualGame.pdf)  
+  Demonstrates practical cybersecurity competency across categories like network traffic analysis, cryptography, and web exploitation.
 
-- **Wireshark ARP Packet Analysis** — [View Report (PDF)](./Wireshark_ARP_Packet_Analysis.pdf)  
-  Analyzed a provided packet capture to identify ARP spoofing behavior. Isolated ARP frames,
-identified duplicate-IP warnings and IP→MAC mismatches, and documented evidence of a man-in-the-middle attack.
-**Skills:** Packet analysis, Wireshark, ARP protocol, network forensics.
+---
 
+## 🧠 Projects
+- **ARP Spoofing Attack and Detection** — [🧩 View Report (PDF)](./projects/ARP_Spoofing_Attack_and_Detection.pdf)  
+  Executed a man-in-the-middle ARP spoofing attack, intercepted HTTP traffic, and validated detection using a Python/Scapy script.  
+  **Skills:** ARP protocol analysis, Linux, Python, network forensics.
+
+- **Wireshark ARP Packet Analysis** — [🔍 View Report (PDF)](./projects/Wireshark_ARP_Packet_Analysis.pdf)  
+  Analyzed a captured ARP spoofing attack in Wireshark, identifying duplicate IP warnings and MAC mismatches indicating MITM activity.  
+  **Skills:** Packet analysis, Wireshark, ARP protocol, threat detection, network forensics.
 
 ---
 
