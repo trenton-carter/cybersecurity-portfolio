@@ -17,7 +17,7 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 
 ## 🛠️ Skills & Tools
 **Security & Analysis:** SIEM (Splunk), Incident Response, Log Analysis, Threat Detection, Vulnerability Scanning  
-**Tools & Systems:** Wireshark, Nmap, Kali Linux, Burp Suite, Nessus, Active Directory, Microsoft 365, Azure AD, YubiKey MFA, BitLocker  
+**Tools & Systems:** Wireshark, Nmap, Kali Linux, Burp Suite, Active Directory, Microsoft 365, Azure AD, YubiKey MFA, BitLocker  
 **Networking & Scripting:** VLANs, VPNs, pfSense, VoIP Systems, Python, PowerShell, Bash
 
 ---
