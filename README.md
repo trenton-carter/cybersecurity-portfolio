@@ -24,7 +24,7 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 
 ## 📁 Featured Items
 - **Resume (PDF):** [`TrentonCarter_Resume.pdf`](./TrentonCarter_Resume.pdf)  
-- **NCL Scouting Report (PDF):** [`NCL_Scouting_Report_Spring2025.pdf`](./NCL_Scouting_Report_Spring2025.pdf)  
+- **NCL Scouting Report {644 out of 7816} (PDF):** [`NCL_ScoutingReport_Fall25.pdf`](./NCL_ScoutingReport_Fall25.pdf)  
 
 ### Projects
 1. **SOC Log Analysis Lab** — [projects/soc-log-analysis](./projects/soc-log-analysis)  
