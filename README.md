@@ -32,8 +32,11 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
   Captured HTTP traffic, demonstrated confidentiality risk, and implemented a Python/Scapy detector for anomaly detection.
   **Skills:** Network forensics, ARP analysis, MITM attacks, Python (Scapy), Linux CLI.
 
-- **Wireshark Network Analysis** — [projects/wireshark-analysis](./projects/wireshark-analysis)  
-   Packet captures, filters, and incident indications (C2, exfil, suspicious DNS).
+- **Wireshark ARP Packet Analysis** — [View Report (PDF)](./projects/Wireshark_ARP_Packet_Analysis.pdf)  
+  Analyzed a provided packet capture to identify ARP spoofing behavior. Isolated ARP frames,
+identified duplicate-IP warnings and IP→MAC mismatches, and documented evidence of a man-in-the-middle attack.
+**Skills:** Packet analysis, Wireshark, ARP protocol, network forensics.
+
 
 ---
 
