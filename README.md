@@ -27,13 +27,12 @@ Cybersecurity student specializing in **SOC operations, incident response, and s
 - **NCL Scouting Report {644 out of 7816} (PDF):** [`NCL_ScoutingReport_Fall25.pdf`](./NCL_ScoutingReport_Fall25.pdf)  
 
 ### Projects
-1. ### Projects
 - **ARP Spoofing Attack and Detection** — [View Report (PDF)](./ARP_Spoofing_Attack_and_Detection.pdf)  
   Executed an ARP spoofing and man-in-the-middle attack in a controlled lab to analyze packet interception and detection.
   Captured HTTP traffic, demonstrated confidentiality risk, and implemented a Python/Scapy detector for anomaly detection.
   **Skills:** Network forensics, ARP analysis, MITM attacks, Python (Scapy), Linux CLI.
 
-2. **Wireshark Network Analysis** — [projects/wireshark-analysis](./projects/wireshark-analysis)  
+- **Wireshark Network Analysis** — [projects/wireshark-analysis](./projects/wireshark-analysis)  
    Packet captures, filters, and incident indications (C2, exfil, suspicious DNS).
 
 ---
