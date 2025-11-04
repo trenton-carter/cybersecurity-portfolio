@@ -1,0 +1,31 @@
+# Sensitive / secrets
+*.key
+*.pem
+*.pfx
+*.cert
+*.crt
+*.env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.so
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Large captures
+*.pcap
+*.dump
+*.dmp
+
+# Notes/scratch
+notes/
+scratch/
