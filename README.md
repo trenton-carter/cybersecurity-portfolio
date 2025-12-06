@@ -44,6 +44,10 @@ I am an upcoming cybersecurity graduate specializing in **SOC operations, incide
   Built a custom PowerShell script that automates forensic evidence collection during an incident. The tool captures system details, exports running processes, and            generates a structured incident summary to support rapid triage and investigation.  
   **Skills:** PowerShell scripting, incident response, JSON/CSV export, process enumeration, system forensics.
 
+  **PowerShell File Integrity Hash Calculator** —  [🔐 View Report (PDF)](./projects/PowerShell_Incident_Response_Data_Collector.pdf) 
+  Built a PowerShell script that recursively scans a directory, collects file metadata, and generates MD5, SHA1, and SHA256 hashes for forensic integrity verification.        Outputs all results to a timestamped CSV for evidence analysis and tamper detection.  
+  **Skills:** PowerShell automation, file integrity analysis, cryptographic hashing, forensic evidence handling, CSV reporting.
+
 ---
 
 ## 🎓 Education
