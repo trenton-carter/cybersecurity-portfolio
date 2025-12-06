@@ -23,7 +23,7 @@ I am an upcoming cybersecurity graduate specializing in **SOC operations, incide
 ---
 
 ## 📄 Documents
-- **Resume** — [➡️ View Resume (PDF)](./docs/Trenton_Carter_Resume.pdf)  
+- **Resume** — [➡️ View Resume (PDF)](./docs/Resume_Dec_2025.pdf)  
   Highlights hands-on IT support and cybersecurity experience, technical skills, and certifications relevant to SOC Analyst and IT Security roles.
 
 - **NCL Scouting Report (Fall 2025)** — [📊 View Score Report (PDF)](./docs/NCL_Fall2025_IndividualGame.pdf)  
