@@ -40,8 +40,8 @@ I am an upcoming cybersecurity graduate specializing in **SOC operations, incide
   Analyzed a captured ARP spoofing attack in Wireshark, identifying duplicate IP warnings and MAC mismatches indicating MITM activity.  
   **Skills:** Packet analysis, Wireshark, ARP protocol, threat detection, network forensics.
 
-- **PowerShell Incident Response Data Collector** — [⚙️ View Report (PDF)](./projects/PowerShell_Incident_Response_Data_Collector.pdf)
-  Built a custom PowerShell script that automates forensic evidence collection during an incident. The tool captures system details, exports running processes, and            generates a structured incident summary to support rapid triage and investigation.
+- **PowerShell Incident Response Data Collector** — [⚙️ View Report (PDF)](./projects/PowerShell_Incident_Response_Data_Collector.pdf)  
+  Built a custom PowerShell script that automates forensic evidence collection during an incident. The tool captures system details, exports running processes, and            generates a structured incident summary to support rapid triage and investigation.  
   **Skills:** PowerShell scripting, incident response, JSON/CSV export, process enumeration, system forensics.
 
 ---
