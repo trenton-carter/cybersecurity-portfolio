@@ -8,8 +8,8 @@
 ## 🧠 About Me
 Cybersecurity student specializing in **SOC operations, incident response, and system security**. Hands-on experience with **Active Directory**, **Microsoft 365**, **BitLocker**, and **network segmentation** across 13 clinical sites (Centerville Clinics). Seeking a **SOC Analyst** role.
 
-**Current Focus**
-- COMPTIA Security+ *Dec. 2025*
+**Accomplishments and Goals**
+- CompTIA Security+ *Dec. 2025*
 - National Cyber League *Fall 2025*
 - TryHackMe SOC Level 1
 
