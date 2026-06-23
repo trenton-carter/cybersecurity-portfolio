@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-I am an upcoming cybersecurity graduate specializing in **SOC operations, incident response, and system security**. Hands-on experience with **Active Directory**, **Microsoft 365**, **BitLocker**, and **network segmentation** across 13 clinical sites (Centerville Clinics). Seeking a **Security Analyst** role. Please browse my portfolio to learn about my accomplishments so far.
+I am a recent cybersecurity graduate specializing in **SOC operations, incident response, and system security**. Hands-on experience with **Active Directory**, **Microsoft 365**, **BitLocker**, and **network segmentation** across 13 clinical sites (Centerville Clinics). Seeking a **Security Analyst** role. Please browse my portfolio to learn about my accomplishments so far.
 
 **Accomplishments and Goals**
 - CompTIA Security+ *Dec. 2025*
