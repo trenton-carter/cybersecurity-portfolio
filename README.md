@@ -52,7 +52,7 @@ I am a recent cybersecurity graduate specializing in **SOC operations, incident 
 
 ## 🎓 Education
 **Wittenberg University — B.A. Computer Science (Cybersecurity Concentration)**  
-Minor: Business | GPA: 3.3 | Expected Graduation: 2026  
+Minor: Business | GPA: 3.3 |  
 **Honors:** Wittenberg Football - Iron Tiger Strength & Conditioning Leadership Award
 
 ---
