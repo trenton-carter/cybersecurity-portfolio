@@ -73,18 +73,17 @@ LDAPS, demonstrating SSO across both dominant federation protocols:
 
 ---
 
+---
+
 ## Additional Projects
 
-Earlier hands-on labs in scripting, forensics, and network analysis:
+Earlier hands-on labs demonstrating PowerShell automation for security workflows:
 
-- **ARP Spoofing Detection & Network Analysis** *(Python, Scapy, Wireshark)* —
-  captured and analyzed ARP traffic and built a proof-of-concept detector for
-  unexpected IP-to-MAC mapping changes (Layer 2 analysis and detection logic).
-- **PowerShell Infrastructure Automation** *(PowerShell, JSON, CSV)* — repeatable
-  scripts to collect system information and export structured output for
-  technical documentation.
+- **[PowerShell Incident Response Data Collector](projects/PowerShell_Incident_Response_Data_Collector.pdf)** *(PowerShell, JSON, CSV)* — an `Invoke-IncidentResponse` script that snapshots host state during an incident: collects system information and running-process detail, exports structured JSON/CSV artifacts, and generates a human-readable triage summary. Demonstrates function design, file automation, and evidence preparation for IR workflows.
 
-*(Link these to their project folders/repos if hosted.)*
+- **[PowerShell File Integrity Hash Calculator](projects/PowerShell_File_Integrity_Hash_Calculator.pdf)** *(PowerShell, MD5/SHA1/SHA256)* — a `Get-FileHashReport` script that recursively hashes all files in a directory across multiple algorithms, captures file metadata, handles errors gracefully, and exports a timestamped CSV for tamper detection and integrity verification.
+
+*Additional network-analysis labs (ARP spoofing detection, Wireshark traffic analysis) are also available in [`projects/`](projects/).*
 
 ---
 
