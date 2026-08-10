@@ -1,4 +1,6 @@
 # Trenton Carter — Cybersecurity Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trentonmcarter@gmail.com)
 
 Cybersecurity professional focused on **Identity and Access Management (IAM)**,
 **privileged access**, and **Active Directory security**. Current cloud-security
@@ -11,8 +13,6 @@ This portfolio centers on a three-part IAM project series covering the core
 pillars of the field — privileged access, identity governance, and federation —
 each built end-to-end on a self-hosted Active Directory lab and documented with
 verification at every step.
-
-💼 [LinkedIn](#) · 📧 trentonmcarter@gmail.com
 
 ---
 
