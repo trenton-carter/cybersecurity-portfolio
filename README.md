@@ -68,7 +68,7 @@ LDAPS, demonstrating SSO across both dominant federation protocols:
 ## Competition Results
 
 - **National Cyber League (NCL), Spring 2026** — ranked **156th of 7,010**
-  nationally (individual game), a school record.
+  nationally (individual game), a Wittenberg University school record.
 - Detailed score reports in [`reports/`](reports/).
 
 ---
